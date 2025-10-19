@@ -1,0 +1,10 @@
+1-start and end may coincide, eliminate that ----- DONE
+2-algorithms formation ----- DONE
+3-dsiable all buttons if algorithm satrts
+4-enable all buttons when algo ends or is not running
+5-percentage of blocks ventured to find the end from the start ----- DONE
+6-unreacheable ui ----- DONE
+7-reset button ----- DONE
+8-algo selsct dropdown ----- DONE
+9-disable the blocks click when the algorithm runs
+10-Play button and Replay button ----- DONE
